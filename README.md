@@ -7,11 +7,9 @@ Please create a new file for each project below (name examples: project_01.php, 
 
 Write a short program that prints each number from 1 to 100 on a new line. 
 
-For each multiple of 3, print "Fizz" instead of the number. 
-
-For each multiple of 5, print "Buzz" instead of the number. 
-
-For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
+- For each multiple of 3, print "Fizz" instead of the number. 
+- For each multiple of 5, print "Buzz" instead of the number. \
+- For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
 
 You may write your program in either PHP, Javascript or Python.
 
@@ -34,4 +32,4 @@ Please run through each of the following items using only vanilla JavaScript. Wh
 
 
 ## That's It!
-When you're done, please publish your repo either on GitHub, GitLab, BitBucket or another publicly available git repo hosting service of your choosing and email it to both (CC'ing one of us is fine, no need for seperate emails) michael@kinetic.com and steven@kinetic.com. If you could also tell us what you thought overall of this assesment in your email, that would be helpful, we're constantly trying to improve our processes and feedback is always welcome!
+When you're done, please publish your repo either on GitHub, GitLab, BitBucket or another publicly available git repo hosting service of your choosing and email it to both (CC'ing one of us is fine, no need for seperate emails) michael@kinetic.com and steven@kinetic.com. If you could also tell us what you thought overall of this assesment in your email, that would also be helpful. We're constantly trying to improve our processes and feedback is always welcome!
