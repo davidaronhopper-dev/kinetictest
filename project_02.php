@@ -12,10 +12,11 @@ class Cart
     public $tax_percent = 10;
     private $price_list = [
         // 'product_id' => price,
-        '1001' => 12.99,
-        '1002' => 9.27,
-        '1003' => 10.00,
-        '1004' => 4.19,
-        '1005' => 6.75,
+        // these prices are in pennies
+        '1001' => 1299,
+        '1002' => 927,
+        '1003' => 1000,
+        '1004' => 419,
+        '1005' => 675,
     ];  
 }
